@@ -19,7 +19,9 @@ For Defining Variables In PYTHON
 
 for this example must go and watch 03_rules_variables.py file 
 for better understanding:
+```
 # Jasmin D = "Standard Set" " This type of variable name was not alowed "  # e.g 4
+```
 
 topics no : 04  Check DataTypes In  Python 
 
