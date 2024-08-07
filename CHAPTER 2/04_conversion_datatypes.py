@@ -1,11 +1,11 @@
 """  Check DataTypes In  Python """
 
-# a = 54
+a = 54
 # this will print hte type of your variable
-# print(type(a))
+print(type(a))
 
-# b = "12"
+b = "12"
 # this will print hte type of your variable
-# print(type(b))
+print(type(b))
  
 """  DataTypes Conversion  In  Python """
